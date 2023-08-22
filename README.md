@@ -2,13 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=yagolc&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yagolc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -44,11 +37,5 @@
 ###
 
 <p align="left">👋 Olá, sou Yago!<br><br>Sou um entusiasta da programação focado no mundo do desenvolvimento web e testes automatizados. Minha jornada no universo da codificação começou em 2019 quando entrei na faculdade e desde então virou minha paixão.<br><br>💡 Atualmente, minha paixão está voltada para o desenvolvimento web, onde crio soluções interativas e elegantes para problemas do mundo real. Além disso, sou um entusiasta de testes automatizados, acreditando que a qualidade do software é essencial para uma experiência de usuário excepcional.<br><br>🌟 Minha abordagem ao código é baseada em princípios de organização, legibilidade e colaboração. Adoro trabalhar em equipe e contribuir para projetos de código aberto, onde posso compartilhar conhecimentos e aprender com outros desenvolvedores talentosos.<br><br>🚀 Além da programação, gosto de explorar novas tecnologias, ler sobre as últimas tendências e me manter atualizado com as novidades da indústria. Nos meus momentos de folga, você pode me encontrar praticando esportes ao ar livre ou aproveitando um bom livro.<br><br>Sinta-se à vontade para explorar meus repositórios e entrar em contato.</p>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/yagolc/yagolc/output/snake.svg" alt="Snake animation" />
 
 ###
